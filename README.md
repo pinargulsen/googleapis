@@ -1,5 +1,4 @@
 # Google APIs
-
 This repository contains the original interface definitions of public
 Google APIs that support both REST and gRPC protocols. Reading the
 original interface definitions can provide a better understanding of
